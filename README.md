@@ -23,6 +23,6 @@ I'm a second-year Bachelor of Computer Science (Advanced) student at the Univers
 <br/>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=phoenixpereira&show_icons=true&theme=holi" alt="GitHub Stats" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixpereira&layout=compact&theme=holi" alt="Top Languages" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=phoenixpereira&show_icons=true&theme=holi" alt="GitHub Stats" style="height: 160px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixpereira&layout=compact&theme=holi" alt="Top Languages" style="height: 160px;">
 </div>
