@@ -32,9 +32,9 @@ A third-year Bachelor of Computer Science (Advanced) student at the University o
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=phoenixpereira&show_icons=true&theme=holi" 
-       alt="GitHub Stats" style="height: 200px;">
+       alt="GitHub Stats" style="height: 170px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixpereira&layout=compact&theme=holi" 
-       alt="Top Languages" style="height: 200px;">
+       alt="Top Languages" style="height: 170px;">
 </div>
 
 <br/>
