@@ -36,7 +36,3 @@ A third-year Bachelor of Computer Science (Advanced) student at the University o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixpereira&layout=compact&theme=holi" 
        alt="Top Languages" style="height: 170px;">
 </div>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=phoenixpereira)
