@@ -30,9 +30,9 @@ A third-year Bachelor of Computer Science (Advanced) student at the University o
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=phoenixpereira&show_icons=true&theme=holi" 
        alt="GitHub Stats" style="height: 170px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixpereira&layout=compact&theme=holi" 
        alt="Top Languages" style="height: 170px;">
-</div>
+</div> -->
